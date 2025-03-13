@@ -1,4 +1,8 @@
-Markdown Preview Mermaid Support
+//This is Architecture & Design Diagram code in mermaid
+//Mermaid diagrams are supported in GitHub README.md files.
+//If ur using VS Code "Markdown Preview Mermaid Support" extension.
+//If ur using Jupyter Notebook then use mermaid_magic extension in Python 
+//Thankyou
 Multi-Cloud DevOps Ecosystem Architecture
 AWS [icon: aws] {
   AWS VPC [icon: aws-vpc] {
